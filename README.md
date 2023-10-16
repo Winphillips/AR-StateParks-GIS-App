@@ -18,7 +18,7 @@ https://github.com/Winphillips/AR-StateParks-GIS-App/assets/98627220/2567d20f-cd
 
 
 ## What I Learned
-- Create a full-stack web GIS application from scratch.
+- Create a full-stack web GIS application using C# ASP.NET and PostgreSQL.
 - Develop full-stack ASP.NET Core MVC applications.
 - Write backend code in C# for data processing and manipulation.
 - Integrate third-party JavaScript charting libraries to visualize data.
