@@ -1,0 +1,912 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "ARKANSAS MUSEUM OF NATURAL RESOURCES",
+        "county": "Union",
+        "averagemonthlyvisitors": 588,
+        "riverlake": "None",
+        "size": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.71442809999999,
+          33.3369348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "ARKANSAS POST MUSEUM",
+        "county": "Arkansas",
+        "averagemonthlyvisitors": 432,
+        "riverlake": "None",
+        "size": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.37617469999999,
+          34.1174845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "BULL SHOALS-WHITE RIVER STATE PARK",
+        "county": "Baxter, Marion",
+        "averagemonthlyvisitors": 1255,
+        "riverlake": "Bull Shoals Lake",
+        "size": 732
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.576638,
+          36.3679736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "CANE CREEK STATE PARK",
+        "county": "Lincoln",
+        "averagemonthlyvisitors": 566,
+        "riverlake": "Cane Creek Lake",
+        "size": 2053
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7644488,
+          33.9128546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "CONWAY CEMETERY STATE PARK",
+        "county": "Lafayette",
+        "averagemonthlyvisitors": 241,
+        "riverlake": "None",
+        "size": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6556805,
+          33.0978512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "COSSATOT RIVER STATE PARK-NATURAL AREA",
+        "county": "Howard, Polk",
+        "averagemonthlyvisitors": 1621,
+        "riverlake": "Cossatot River",
+        "size": 5230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1773867,
+          34.29422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "CRATER OF DIAMONDS STATE PARK",
+        "county": "Pike",
+        "averagemonthlyvisitors": 2260,
+        "riverlake": "None",
+        "size": 911
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6702102,
+          34.0322678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "CROWLEY'S RIDGE STATE PARK",
+        "county": "Greene",
+        "averagemonthlyvisitors": 2107,
+        "riverlake": "Lake Ponder",
+        "size": 291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7455669,
+          35.9929993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "DAISY STATE PARK",
+        "county": "Pike",
+        "averagemonthlyvisitors": 1081,
+        "riverlake": "Lake Greeson",
+        "size": 276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7409577,
+          34.2337578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "DAVIDSONVILLE HISTORIC STATE PARK",
+        "county": "Randolph",
+        "averagemonthlyvisitors": 1090,
+        "riverlake": "Black River",
+        "size": 163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0563455,
+          36.1558789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "DEGRAY LAKE RESORT STATE PARK",
+        "county": "Clark, Hot Spring",
+        "averagemonthlyvisitors": 485,
+        "riverlake": "DeGray Lake",
+        "size": 984
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.13221329999999,
+          34.2535606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "DELTA HERITAGE TRAIL STATE PARK",
+        "county": "Arkansas, Desha, Phillips",
+        "averagemonthlyvisitors": 365,
+        "riverlake": "None",
+        "size": 960
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7593792,
+          34.5548789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "DEVIL'S DEN STATE PARK",
+        "county": "Washington",
+        "averagemonthlyvisitors": 2743,
+        "riverlake": "Lee Creek",
+        "size": 2500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2452239,
+          35.7842931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "HAMPSON ARCHEOLOGICAL MUSEUM STATE PARK",
+        "county": "Mississippi",
+        "averagemonthlyvisitors": 597,
+        "riverlake": "None",
+        "size": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.04397209999999,
+          35.5670818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "HERMAN DAVIS STATE PARK",
+        "county": "Mississippi",
+        "averagemonthlyvisitors": 2012,
+        "riverlake": "None",
+        "size": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1660721,
+          35.879098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "HISTORIC WASHINGTON STATE PARK",
+        "county": "Hempstead",
+        "averagemonthlyvisitors": 315,
+        "riverlake": "None",
+        "size": 101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6824693,
+          33.7745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "HOBBS STATE PARK-CONSERVATION AREA",
+        "county": "Benton, Carroll, Madison",
+        "averagemonthlyvisitors": 1599,
+        "riverlake": "Beaver Lake",
+        "size": 12056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9387156,
+          36.2849421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "JACKSONPORT STATE PARK",
+        "county": "Jackson",
+        "averagemonthlyvisitors": 510,
+        "riverlake": "Black River and White River",
+        "size": 165
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3115783,
+          35.6393463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "JENKINS FERRY BATTLEGROUND STATE PARK",
+        "county": "Grant",
+        "averagemonthlyvisitors": 256,
+        "riverlake": "Saline River",
+        "size": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.548144,
+          34.2127533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "LAKE CATHERINE STATE PARK",
+        "county": "Garland, Hot Spring",
+        "averagemonthlyvisitors": 1484,
+        "riverlake": "Lake Catherine",
+        "size": 2180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9180051,
+          34.4379724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "LAKE CHARLES STATE PARK",
+        "county": "Lawrence",
+        "averagemonthlyvisitors": 681,
+        "riverlake": "Lake Charles",
+        "size": 140
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1478973,
+          36.0641616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "LAKE CHICOT STATE PARK",
+        "county": "Chicot",
+        "averagemonthlyvisitors": 1360,
+        "riverlake": "Lake Chicot",
+        "size": 212
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2840738,
+          33.3314055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "LAKE DARDANELLE STATE PARK",
+        "county": "Pope",
+        "averagemonthlyvisitors": 1266,
+        "riverlake": "Lake Dardanelle",
+        "size": 246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2016242,
+          35.2918984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "LAKE FORT SMITH STATE PARK",
+        "county": "Crawford",
+        "averagemonthlyvisitors": 1400,
+        "riverlake": "Lake Fort Smith",
+        "size": 260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.18652110000001,
+          35.617518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "LAKE FRIERSON STATE PARK",
+        "county": "Greene",
+        "averagemonthlyvisitors": 1283,
+        "riverlake": "Lake Frierson",
+        "size": 114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7156534,
+          35.9720115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "LAKE OUACHITA STATE PARK",
+        "county": "Garland",
+        "averagemonthlyvisitors": 259,
+        "riverlake": "Lake Ouachita",
+        "size": 360
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.164636,
+          34.632581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "LAKE POINSETT STATE PARK",
+        "county": "Poinsett",
+        "averagemonthlyvisitors": 325,
+        "riverlake": "Lake Poinsett",
+        "size": 132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6856076,
+          35.532378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "LAKE SYLVIA RECREATION AREA",
+        "county": "Perryville",
+        "averagemonthlyvisitors": null,
+        "riverlake": "None",
+        "size": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8101866,
+          34.8822767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "LOGOLY STATE PARK",
+        "county": "Columbia",
+        "averagemonthlyvisitors": 1087,
+        "riverlake": "None",
+        "size": 368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.184811,
+          33.3479285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "LOUISIANA PURCHASE STATE PARK",
+        "county": "Lee, Monroe, Phillips",
+        "averagemonthlyvisitors": 414,
+        "riverlake": "None",
+        "size": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1945811,
+          34.8871967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "LOWER WHITE RIVER MUSEUM STATE PARK",
+        "county": "Prairie",
+        "averagemonthlyvisitors": 600,
+        "riverlake": "White River",
+        "size": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5165885,
+          34.9768414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "MAMMOTH SPRING STATE PARK",
+        "county": "Fulton",
+        "averagemonthlyvisitors": 634,
+        "riverlake": "Mammoth Spring",
+        "size": 624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5404401,
+          36.4956312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "MARKS' MILLS BATTLEGROUND STATE PARK",
+        "county": "Cleveland",
+        "averagemonthlyvisitors": 378,
+        "riverlake": "None",
+        "size": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4240824,
+          33.8204725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "MILLWOOD STATE PARK",
+        "county": "Little River",
+        "averagemonthlyvisitors": 930,
+        "riverlake": "Millwood Lake",
+        "size": 824
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4824931,
+          33.5731929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "MISSISSIPPI RIVER STATE PARK",
+        "county": "Lee, Phillips",
+        "averagemonthlyvisitors": 244,
+        "riverlake": "Mississippi River",
+        "size": 536
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7856179,
+          34.7897084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "MORO BAY STATE PARK",
+        "county": "Bradley",
+        "averagemonthlyvisitors": 2524,
+        "riverlake": "Ouachita River",
+        "size": 117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.34959649999999,
+          33.3006759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "MOUNT MAGAZINE STATE PARK",
+        "county": "Logan",
+        "averagemonthlyvisitors": 1495,
+        "riverlake": "None",
+        "size": 2234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6351942,
+          35.1984335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "MOUNT NEBO STATE PARK",
+        "county": "Yell",
+        "averagemonthlyvisitors": 2150,
+        "riverlake": "None",
+        "size": 2984
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25543569999999,
+          35.2280764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "OZARK FOLK CENTER STATE PARK",
+        "county": "Stone",
+        "averagemonthlyvisitors": 2450,
+        "riverlake": "None",
+        "size": 637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.117237,
+          35.8811521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "PARKIN ARCHEOLOGICAL STATE PARK",
+        "county": "Cross",
+        "averagemonthlyvisitors": 1922,
+        "riverlake": "None",
+        "size": 107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5576962,
+          35.2753646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "PETIT JEAN STATE PARK",
+        "county": "Conway",
+        "averagemonthlyvisitors": 2801,
+        "riverlake": "None",
+        "size": 3471
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.91920119999999,
+          35.1274185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "PINNACLE MOUNTAIN STATE PARK",
+        "county": "Pulaski",
+        "averagemonthlyvisitors": 3506,
+        "riverlake": "None",
+        "size": 2069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4626167,
+          34.844702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "PLANTATION AGRICULTURE MUSEUM",
+        "county": "Lonoke",
+        "averagemonthlyvisitors": 228,
+        "riverlake": "None",
+        "size": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0970543,
+          34.6952849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "PLUM BAYOU MOUNDS ARCHEOLOGICAL STATE PARK",
+        "county": "Lonoke",
+        "averagemonthlyvisitors": 633,
+        "riverlake": "None",
+        "size": 185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.06038819999999,
+          34.6458879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "POISON SPRINGS BATTLEGROUND STATE PARK",
+        "county": "Ouachita",
+        "averagemonthlyvisitors": 361,
+        "riverlake": "None",
+        "size": 85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1353091,
+          33.7093435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "POWHATAN HISTORIC STATE PARK",
+        "county": "Lawrence",
+        "averagemonthlyvisitors": 1445,
+        "riverlake": "Black River",
+        "size": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.11748,
+          36.0827219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "PRAIRIE GROVE BATTLEFIELD STATE PARK",
+        "county": "Washington",
+        "averagemonthlyvisitors": 1115,
+        "riverlake": "None",
+        "size": 840
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.31063259999999,
+          35.9830778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "QUEEN WILHELMINA STATE PARK",
+        "county": "Polk",
+        "averagemonthlyvisitors": 287,
+        "riverlake": "None",
+        "size": 460
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3715585,
+          34.6858036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "SOUTH ARKANSAS ARBORETUM",
+        "county": "Union",
+        "averagemonthlyvisitors": 1776,
+        "riverlake": "None",
+        "size": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.68497239999999,
+          33.21921409999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "VILLAGE CREEK STATE PARK",
+        "county": "Cross, St. Francis",
+        "averagemonthlyvisitors": 256,
+        "riverlake": "Lakes Austell and Dunn",
+        "size": 6909
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7173122,
+          35.1623218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "WHITE OAK LAKE STATE PARK",
+        "county": "Ouachita, Nevada",
+        "averagemonthlyvisitors": 1078,
+        "riverlake": "White Oak Lake",
+        "size": 725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0937359,
+          33.6684743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "WITHROW SPRINGS STATE PARK",
+        "county": "Madison",
+        "averagemonthlyvisitors": 1824,
+        "riverlake": "Withrow Spring",
+        "size": 786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7283162,
+          36.0989032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statepark": "WOOLLY HOLLOW STATE PARK",
+        "county": "Faulkner",
+        "averagemonthlyvisitors": 1549,
+        "riverlake": "None",
+        "size": 370
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2841045,
+          35.2886
+        ]
+      }
+    }
+  ]
+}
