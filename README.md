@@ -1,5 +1,5 @@
-# Arkansas State Parks GIS Web App with C# ASP.NET CORE MVC and Leaflet
-<img src="video/ArkansasStateParksLogo.png" width="50" height="78">
+# <img src="video/ArkansasStateParksLogo.png" width="50" height="78"> Arkansas State Parks GIS Web App with C# ASP.NET CORE MVC and Leaflet
+
 
 Welcome to my Arkansas State Parks GIS Web App project, a comprehensive full-stack MVC web application developed using C# ASP.NET CORE and Leaflet.js. This project aims to leverage the power of geospatial analytics and convert it into a functional web application for exploring [Arkansas State Parks data](https://www.arkansasstateparks.com/parks). I use PostgreSQL and PostGIS to create a Spacial Database in pgAdmin4, Integrated interactive charts using Chart.js and a robust web map using Leaflet.js. Constructed Rest API Endpoints in C# with LINQ. And Finally built the web app front end in CSS and JS for a pleasing and responsive App.
 
