@@ -8,7 +8,7 @@ Welcome to my Arkansas State Parks GIS Web App project, a comprehensive full-sta
 In this project, we are working with Arkansas State Parks data (however average monthly visitor data is fabricated for demonstration purposes as I could not find any resources to work with and went with a combonation of random and guesstimated data from my own experiences) and implementing data processing techniques to extract, transform, and load this data into our spatial database. Once the data is processed and cleaned, it serves as the foundation for our .NET Core Web Map Application.
 
 ## Preview
-video/ARSP.mp4
+![video](video/ARSP.mp4)
 
 ## Technologies Used
 
